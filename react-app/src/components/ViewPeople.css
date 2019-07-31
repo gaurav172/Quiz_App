@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.Block {
+  display: block;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;  
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.iBlock {
+  display: block;
+  padding: 10px;
+  margin: 0;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.inlineBlock{
+  display: inline-block;
+  margin: 2px;
+  padding: 4px;
+}
+
+.op {
+  padding: 8px;
+  display: inline;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 15px;
+}
